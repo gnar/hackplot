@@ -7,7 +7,7 @@ set timefmt "%Y-%m-%d"
 set format x "%Y-%m"
 
 set xlabel "date"
-set ylabel "body mass (kg)"
+set ylabel "weight"
 # set xrange ["2005-01-01" : "2013-12-31"]
 # set yrange [80 : 100]
 
